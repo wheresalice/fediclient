@@ -1,6 +1,6 @@
 # fediclient
 
-Do you ever wonder what's behind that @username@social.example.net username that you keep seeing mentioned?
+Do you ever wonder what's behind that `@username@social.example.net` username that you keep seeing mentioned?
 
 Chances are it's probably a Fediverse username, and the way you turn that into a profile and list of posts is complicated
 
@@ -19,6 +19,6 @@ Or you could just run this CLI app that will do all of that for you
 fediclient @username@social.example.net
 ```
 
-Different implementations return different results, so this may not work for all instances. It has been tested against both Mastodon and Hometown
+Different implementations return different results, and I may have misread the docs, so this may not work for all instances. It has been tested against both Mastodon and Hometown
 
 PRs welcome to add support for activitypub servers not currently working
