@@ -6,7 +6,7 @@ require (
 	github.com/ant0ine/go-webfinger v0.0.0-20150209052316-f8a1773b0e03
 	github.com/go-ap/activitypub v0.0.0-20221209114049-1ceafda50f9f
 	github.com/go-ap/client v0.0.0-20221211133508-e3087682099e
-	github.com/microcosm-cc/bluemonday v1.0.21
+	github.com/microcosm-cc/bluemonday v1.0.22
 )
 
 require (
